@@ -1,4 +1,4 @@
-# simple "request/sec" viewer 
+# Simple CUI "request/sec" viewer
 
 ## usage
 
@@ -6,6 +6,6 @@
 
 ## TODO
 
-- [ ] save result for temporary file option.
-- [ ] exculude specific IP address option.
-- [ ] count only specific IP address option.
+- [ ] Save result for temporary file option.
+- [ ] Exculude specific IP address option.
+- [ ] Count only specific IP address option.
