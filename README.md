@@ -1,4 +1,4 @@
-# Simple CUI "request/sec" viewer
+# Simple CUI "request/sec" counter for API server
 
 ## usage
 
